@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18463
-Fork on GitHub5491
+
 <h1 align="center">Hi 👋, I'm Aditya Chandran</h1>
 <h3 align="center">A Full Stack Web Developer and an ML Enthusiast</h3>
 
